@@ -4,4 +4,4 @@ To work with it using maven you should:
 
 1. Set your own properties in application.properties file.
 2. $ mvn install  
-3. mvn spring-boot:run 
+3. $ mvn spring-boot:run 
