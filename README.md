@@ -2,6 +2,8 @@ The simple application that receiving data from external service (in my case "Op
 
 To work with it using maven you should:
 
-1. Set your own properties in application.properties file.
-2. $ mvn install  
+1. $ mvn install
+2. Set your own properties in application.properties file.
 3. $ mvn spring-boot:run 
+
+* if properties was changed, you should only rerun app
